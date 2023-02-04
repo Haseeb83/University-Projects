@@ -1,2 +1,2 @@
-# University-Projects
-My university Project which I completed in my sixth semester.
+#Academic Projects
+My Academic project list that I have been comleted in my university.
